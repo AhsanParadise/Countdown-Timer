@@ -7,9 +7,9 @@ Responsive web design (RWD) is an approach to web design that makes web pages re
 
 
 <h1>How To Create A Countdown Timer Using JavaScript?</h1>
-# Set a valid end date.
-# Calculate the time remaining.
-# Convert the time to a usable format.
-# Output the clock data as a reusable object.
-# Display the clock on the page, and stop the clock when it reaches zero.
+1. Set a valid end date.
+2. Calculate the time remaining.
+3. Convert the time to a usable format.
+4. Output the clock data as a reusable object.
+5. Display the clock on the page, and stop the clock when it reaches zero.
 
